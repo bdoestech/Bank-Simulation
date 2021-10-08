@@ -1,5 +1,4 @@
-//Brendan Li | NUID: 001386816
-//EECE2560 Homework #5, part 2
+//Brendan Li 
 
 #include <iostream>
 #include <fstream>
@@ -399,7 +398,7 @@ public:
 
 };
 
-//Provided main function
+//Test main function
 int main() {
     int T;
     cout << "How many tellers in the Bank? "<<endl;
